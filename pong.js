@@ -168,6 +168,3 @@ function resetGame(direction) {
         velocityY : 2
     }
 }
-
-document.getElementById("resetBtn").onclick = resetGame(){
-}
