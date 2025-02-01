@@ -169,9 +169,5 @@ function resetGame(direction) {
     }
 }
 
-function resetGame() {
-	location.reload();
-}
-
 document.getElementById("resetBtn").onclick = resetGame(){
 }
