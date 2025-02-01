@@ -144,3 +144,7 @@ function resetGame(direction) {
         velocityY : 2
     }
 }
+
+function resetGame() {
+	location.reload();
+}
